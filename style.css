@@ -39,7 +39,7 @@ img{
     width:100%;
     height:80vh;
     position: relative;
-    background: URL('./Images/backgroundl.jpg ')no-repeat center/cover;
+    background: URL('./images/backgroundl.jpg ')no-repeat center/cover;
     border-bottom: 9px solid #292929;
   
 }   
@@ -141,7 +141,7 @@ img{
  }
  
 
- /*sectipn*/
+ /*section*/
 
  .section{
    width: 100%;
@@ -160,21 +160,24 @@ img{
   align-items: center;
   align-items: center;
   text-align: center;
-  position: relative;
+   
  
  }
 
+
+
  .gif-tv{
+  left: 70%;
  position: absolute;
-  width: 30%;
+  width: 22%;
  
  }
  .tv{
+  left: 70%;
   position: absolute;
-  width: 33%;
+  width: 23%;
  
  }
 
- .box-1-h1{
-  position: absolute;
- }
+
+
